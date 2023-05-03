@@ -2,4 +2,4 @@
 
 ## Sprint 1
 
-Por favor, siga as instruções no readme contido na pasta "library".
+Por favor, siga as instruções do _readme_ contido na pasta "library".
